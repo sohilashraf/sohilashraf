@@ -4,7 +4,7 @@
 <h3 align="center"> I am a Computer Science Student at the MSA University in Egypt
 
 
-## Connect with me
+## Contact Me
 <p >
     <a href="mailto:sohila.ashraf247@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 </p>
