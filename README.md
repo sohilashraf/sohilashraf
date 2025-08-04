@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&color=ffffff&lines=Hi+There!+👋;+I'm+Sohila+Ashraf+Alaaser!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&color=ffffff&lines=Hi+There!+👋;+I'm+Sohila+Ashraf+Alaasar!;" />
 </h1>
 <h3 align="center"> I am a Computer Science Student at the MSA University in Egypt
 
