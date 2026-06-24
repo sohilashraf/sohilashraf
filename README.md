@@ -23,3 +23,20 @@
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
+### Tech Stack & Tools
+
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; background-color: transparent;">
+      <b>Core Languages</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=cpp,cs,js&theme=dark&perline=3" />
+    </td>
+    <td align="center" style="border: none; background-color: transparent;">
+      <b>Game Engines & Tools</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=unity,unreal,git,github&theme=dark&perline=4" />
+    </td>
+    
+  </tr>
+</table>
+
+
